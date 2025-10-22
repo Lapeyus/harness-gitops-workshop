@@ -35,6 +35,7 @@ trigger:
           codebase:
             build:
               type: branch
+              
               spec:
                 branch: <+trigger.branch>
 
