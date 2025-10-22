@@ -37,3 +37,4 @@ trigger:
               type: branch
               spec:
                 branch: <+trigger.branch>
+
