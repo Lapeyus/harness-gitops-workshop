@@ -1,3 +1,4 @@
 {
-  "image" : "us-docker.pkg.dev/jvillareal-sandbox/apps/podinfo:9b279740e88a06dc5b8984130376bc7b257e0468"
+  "image" : "us-docker.pkg.dev/jvillareal-sandbox/apps/podinfo:9b279740e88a06dc5b8984130376bc7b257e0468",
+  "asset_id" : "Lapeyus-4c0ac0207bb91b48429b5f4c18857cb1eed53e9e"
 }
