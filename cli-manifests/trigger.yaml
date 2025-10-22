@@ -38,4 +38,3 @@ trigger:
               
               spec:
                 branch: <+trigger.branch>
-
