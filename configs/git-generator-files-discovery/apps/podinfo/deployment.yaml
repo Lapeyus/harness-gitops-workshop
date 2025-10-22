@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: us-docker.pkg.dev/jvillareal-sandbox/apps/podinfo:a405fda9396c49729d2f76b95408a7d695695543
+        image: us-docker.pkg.dev/jvillareal-sandbox/apps/podinfo:ae0ed0561ed1307f7821e5a5b816a15cd1713a59
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
