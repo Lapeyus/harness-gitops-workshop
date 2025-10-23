@@ -12,6 +12,9 @@ spec:
   template:  
     metadata:  
       name: '{{cluster.namespace}}-podinfo'  
+      labels:
+        harness.io/envRef: '{{cluster.namespace}}'  
+        harness.io/serviceRef: podinfoservice
     spec:  
       project: spark  
       source:  
