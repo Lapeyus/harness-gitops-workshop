@@ -14,3 +14,4 @@ connector:
         username: DOCKER_USERNAME
         passwordRef: docker_secret
     executeOnDelegate: false
+
